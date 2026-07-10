@@ -10,4 +10,4 @@
 * **Referencias Bibliograficas:** Los articulos de donde se hizo retroalimentacion tecnica para el desarrollo.
 
 ## 📈 Resultados Principales
-(Aquí luego arrastraremos las imágenes de tus gráficas)
+<img width="4461" height="706" alt="Cadena_de_Markov drawio" src="https://github.com/user-attachments/assets/69d97257-3072-4886-908c-d45dc503035b" />
